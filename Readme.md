@@ -4,7 +4,7 @@ Jarvis Like Automation, voice command, AI
 
 ## Installation
 
-Udemy [link] [https://www.udemy.com/course/learn-to-create-ai-assistant-jarvis-with-python]
+Udemy [link](https://www.udemy.com/course/learn-to-create-ai-assistant-jarvis-with-python)
 
 Choose the voice [Microsoft Voice](https://support.office.com/en-us/article/how-to-download-text-to-speech-languages-for-windows-10-d5a6b612-b3ae-423f-afa5-4f6caf1ec5d3)
 
